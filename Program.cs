@@ -70,8 +70,6 @@
 //    public int OrderId { get; set; }
 //    public double TotalAmount { get; set; }
 //}
-
-
 #endregion
 
 
